@@ -1,2 +1,2 @@
 # PRODIGY_CS_01
-This repository is dedicated to Task 1, where you'll develop a Python program that can encrypt and decrypt text using the Caesar cipher algorithm. The program will allow users to input a message and a shift value to perform the encryption and decryption.
+This is the first task I was given during the internship at Prodigy InfoTech. It is a program in python which uses a very simple encryption algorithm. User has to specify a shift value for encryption or decryption. This python program encrypts or decrypts a user's message using Caesar Cipher Algorithm.
